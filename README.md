@@ -7,7 +7,7 @@
 
 ## ⚙️ Technologies I Work With
 
-- Python (pandas, scikit-learn, NumPy)
+- ![Python](https://skillicons.dev/icons?i=python) (pandas, scikit-learn, NumPy)
 - SQL
 - Git & GitHub
 - Jupyter Notebooks
@@ -21,5 +21,5 @@
 Interested in collaborating on machine learning or data-driven projects?  
 Always open to fresh ideas and real-world challenges.
 
-📫 victor.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+📫 viac321@gmail.com  
+🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/viac/))
