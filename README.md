@@ -14,7 +14,7 @@
 
 ## 📈 GitHub Stats
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=viac321&show_icons=true&theme=radical)
 
 ## 🤝 Let's Connect!
 
