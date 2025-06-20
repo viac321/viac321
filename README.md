@@ -22,4 +22,4 @@ Interested in collaborating on machine learning or data-driven projects?
 Always open to fresh ideas and real-world challenges.
 
 📫 viac321@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/viac/))
+🔗 [LinkedIn]([https://www.linkedin.com/in/viac321]
